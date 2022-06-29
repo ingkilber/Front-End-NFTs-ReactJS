@@ -1,3 +1,7 @@
+[![Trick-NFT-Marketplace-42.png](https://i.postimg.cc/SRWx0Wdv/Trick-NFT-Marketplace-42.png)](https://postimg.cc/fSRNmS6c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -69,4 +69,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+Home:
+
+[![7a978bd2-4b01-46ba-bc77-502381f66fe4.png](https://i.postimg.cc/kgPhXWcy/7a978bd2-4b01-46ba-bc77-502381f66fe4.png)](https://postimg.cc/LnvVxYGq)
+
+[![374a58f3-d87e-4d05-8f18-c27afd65e6b3.png](https://i.postimg.cc/ZKdMSwrR/374a58f3-d87e-4d05-8f18-c27afd65e6b3.png)](https://postimg.cc/xc9RGypD)
+
+Full Page:
+
 [![Trick-NFT-Marketplace-42.png](https://i.postimg.cc/SRWx0Wdv/Trick-NFT-Marketplace-42.png)](https://postimg.cc/fSRNmS6c)
